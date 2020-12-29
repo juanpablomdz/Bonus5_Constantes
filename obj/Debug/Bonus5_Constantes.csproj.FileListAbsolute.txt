@@ -1,0 +1,6 @@
+C:\Users\amerc\OneDrive\Documentos\Carrera .NET\Carrera .NET\Introduccion a C#.NET\Laboratorios (hernan)\Lab 1 intro C#\Operadores\Bonus5_Constantes\bin\Debug\Bonus5_Constantes.exe.config
+C:\Users\amerc\OneDrive\Documentos\Carrera .NET\Carrera .NET\Introduccion a C#.NET\Laboratorios (hernan)\Lab 1 intro C#\Operadores\Bonus5_Constantes\bin\Debug\Bonus5_Constantes.exe
+C:\Users\amerc\OneDrive\Documentos\Carrera .NET\Carrera .NET\Introduccion a C#.NET\Laboratorios (hernan)\Lab 1 intro C#\Operadores\Bonus5_Constantes\bin\Debug\Bonus5_Constantes.pdb
+C:\Users\amerc\OneDrive\Documentos\Carrera .NET\Carrera .NET\Introduccion a C#.NET\Laboratorios (hernan)\Lab 1 intro C#\Operadores\Bonus5_Constantes\obj\Debug\Bonus5_Constantes.csproj.CoreCompileInputs.cache
+C:\Users\amerc\OneDrive\Documentos\Carrera .NET\Carrera .NET\Introduccion a C#.NET\Laboratorios (hernan)\Lab 1 intro C#\Operadores\Bonus5_Constantes\obj\Debug\Bonus5_Constantes.exe
+C:\Users\amerc\OneDrive\Documentos\Carrera .NET\Carrera .NET\Introduccion a C#.NET\Laboratorios (hernan)\Lab 1 intro C#\Operadores\Bonus5_Constantes\obj\Debug\Bonus5_Constantes.pdb
